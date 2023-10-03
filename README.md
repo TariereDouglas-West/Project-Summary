@@ -1,2 +1,2 @@
 # Project-Summary
-Employee Payroll Management System
+• Employee Payroll Management System
